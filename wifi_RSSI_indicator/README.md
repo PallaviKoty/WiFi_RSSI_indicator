@@ -39,5 +39,3 @@ After that you will be prompted for a command.
 
 ### Example
     ./list_rssi.py -i -n "HOPE" "sesto"
-
-# WiFi_RSSI_indicator
