@@ -38,19 +38,6 @@ After that you will be prompted for a command.
         print actual rssi data one more time
 
 ### Example
-    ./list_rssi.py -i -n "WifiHome" "WifiBuddy" "Dlink200"
-    ... walking around the apartment for some time with opened laptop to confuse everybody
-    plot
-    ...watching your graphic
-    stop
+    ./list_rssi.py -i -n "HOPE" "sesto"
 
-## Commit history
-
-```
-    25.05.2017: Migrated from gnuplot to matplotlib, less dependencies, simplification.
-    02.06.2011: First commit - a printed list [AP: RSSI]
-    02.06.2011: Now refreshes on every signal change, completely new design
-    02.06.2011: Gnuplot
-    09.06.2011: New functionality - start changer, print.
-```
 # WiFi_RSSI_indicator
